@@ -289,7 +289,7 @@ section {
 }
 
 .home-img img {
-    position: absolute;
+    position:   absolute ;
     bottom: 0;
     right: 40px;
     pointer-events: none;
